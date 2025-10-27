@@ -1,0 +1,110 @@
+{
+  "channel": "<<channel>>",
+  "text": "New Hire - Virtual Classroom (MANDATORY)",
+  "blocks": [
+    {
+      "type": "header",
+      "text": {
+        "type": "plain_text",
+        "text": "🎓 New Hire – Virtual Classroom (MANDATORY)",
+        "emoji": true
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "Hi team,\n\nSales Enablement is pleased to invite you to the *Sales New Hire Virtual Classroom*."
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Important:*\n>This message is only for the Virtual Classroom invitation. The in-person *Immersion Workshop* in Bucharest will come via a separate calendar invite."
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*What / When*\n• Format: Two ½-day virtual sessions\n• Dates: *<<dates>>*\n• Time: *<<time>>*\n• Location: Virtual (Teams/Zoom) — <<link>>|Join Meeting>"
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Who:*\nMandatory for all GTM roles."
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Action Required*\n• ✅ Please *Accept* this calendar invite to confirm your attendance\n• ❌ If you’re unable to attend, email <mailto:irina.catauta@uipath.com|irina.catauta@uipath.com> and CC your manager with the reason"
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Pre-Work (required)*\nPlease complete your *FAST START* e-learnings before attending the Virtual Classroom."
+      }
+    },
+    {
+      "type": "actions",
+      "elements": [
+        {
+          "type": "button",
+          "text": {
+            "type": "plain_text",
+            "text": "📘 Open FAST START",
+            "emoji": true
+          },
+          "url": "https://uipath.highspot.com/items/686f9962e3f614ccd33b29b6",
+          "style": "primary"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "You’ll receive reminders in Slack, and I will monitor completion."
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*What we’ll cover:*\n• The UiPath Platform (value & use cases)\n• Competitive landscape\n• GTM & Sales Strategy\n• Sales Franchise & working with cross-functional teams"
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Agenda & materials:*\nThe full agenda will be shared one week before the event. See the attached *Getting Started* guide for login instructions."
+      }
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "mrkdwn",
+          "text": "We’re excited to have you join us! If you have any questions, reply here or ping me directly."
+        }
+      ]
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "mrkdwn",
+          "text": "*Irina Lazăr*  |  Sales Enablement  |  <mailto:irina.catauta@uipath.com|irina.catauta@uipath.com>"
+        }
+      ]
+    }
+  ]
+}
