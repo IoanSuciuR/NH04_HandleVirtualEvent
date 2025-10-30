@@ -1,0 +1,37 @@
+{
+  "channel": "<<channel>>",
+  "text": "Update: Virtual Classroom Participation",
+  "blocks": [
+    {
+      "type": "header",
+      "text": {
+        "type": "plain_text",
+        "text": "😊 Update – Virtual Classroom Participation",
+        "emoji": true
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "Hi,\n\nYou no longer need to participate in the *Sales New Hire Virtual Classroom* scheduled for *<<dates>>*."
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "Thank you for your understanding! If you have any questions, feel free to reach out to <mailto:irina.catauta@uipath.com|irina.catauta@uipath.com>."
+      }
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "mrkdwn",
+          "text": "*Sales Enablement Team*  |  UiPath Academy"
+        }
+      ]
+    }
+  ]
+}
